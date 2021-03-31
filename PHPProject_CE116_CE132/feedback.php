@@ -54,6 +54,13 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 
 <body>
 
+<<<<<<< HEAD
+=======
+    <title>FeedBack | CLG-feedback</title>
+  </head>
+  <body>
+    
+>>>>>>> 4825b80016757a2acdef669841631a1169bf3371
     <?php  include 'partials/_header.php'; ?>
     <?php
       if($showAlert){
